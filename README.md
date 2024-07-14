@@ -50,6 +50,10 @@ To run the game locally, follow these steps:
 
 - The game is over when no more moves are possible.
 
+## Video
+
+https://github.com/user-attachments/assets/f1e0b4a3-3acd-4c83-8c14-20a2084762f3
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
