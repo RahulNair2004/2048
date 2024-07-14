@@ -7,6 +7,7 @@ Welcome to my recreation of the classic 2048 game! This project is a Unity-based
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
+- [Video](#video)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -59,4 +60,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements
 Inspired by 2048 by Gabriele Cirulli.
-Thanks to all the contributors and the open-source community.
+
