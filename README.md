@@ -28,7 +28,7 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/2048-recreation.git
+   git clone https://github.com/RahulNair2004/2048-recreation.git
 
 2. Open the project in Unity:
    Launch Unity Hub.
